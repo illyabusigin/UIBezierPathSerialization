@@ -41,7 +41,7 @@ UIBezierPath *bezierPath = [UIBezierPathSerialization bezierPathWithData:data op
 
 ## Bugs & Feature Requests
 
-There is **no support** offered with this component. If you would like a feature or find a bug, please submit a feature request through the [GitHub issue tracker](http://github.com/illyabusigin/CYRTextView/issues).
+There is **no support** offered with this component. If you would like a feature or find a bug, please submit a feature request through the [GitHub issue tracker](http://github.com/illyabusigin/UIBezierPathSerialization/issues).
 
 Pull-requests for bug-fixes and features are welcome!
 
