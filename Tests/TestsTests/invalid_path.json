@@ -1,0 +1,19 @@
+{
+    "properties": {
+        "usesEvenOddFillRule": false,
+        "lineWidth": 2,
+        "miterLimit": 10,
+        "lineJoinStyle": 0,
+        "lineCapStyle": 0,
+        "flatness": 0.6
+    },
+    "elements": [
+                 {
+                 "x": 117.5,
+                 "type": "MoveTo",
+                 "y": 16.5
+                 },
+                 {
+                 "x": 117.5,
+                 "type": "LineTo",
+                 "y": 55.
