@@ -1,6 +1,11 @@
 UIBezierPathSerialization
 =========================
 
+[![Version](https://img.shields.io/cocoapods/v/UIBezierPathSerialization.svg?style=flat)](https://github.com/illyabusigin/UIBezierPathSerialization)
+[![License](https://img.shields.io/cocoapods/l/UIBezierPathSerialization.svg?style=flat)](https://github.com/illyabusigin/UIBezierPathSerialization)
+[![Platform](https://img.shields.io/cocoapods/p/UIBezierPathSerialization.svg?style=flat)](https://github.com/illyabusigin/UIBezierPathSerialization)
+
+
 by **Illya Busigin**
 
 - Visit my blog at [http://illyabusigin.com/](http://illyabusigin.com/)
