@@ -151,7 +151,7 @@ static CGPathElement CGPathElementCubicCurveToPointFromJSONObject(NSDictionary *
     CGPathElement cubicCurveToPointElement;
     CGPoint *points = malloc(sizeof(CGPoint) * 3);
     
-    cubicCurveToPointElement.type = kCGPathElementAddQuadCurveToPoint;
+    cubicCurveToPointElement.type = kCGPathElementAddCurveToPoint;
     
     // Point
     CGFloat x = [jsonObject[@"x"] floatValue];
