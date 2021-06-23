@@ -447,6 +447,8 @@ static void updateDrawingPropertiesForBezierPathWithProperties(UIBezierPath *pat
         if (!(options & UIBezierPathWritingIgnoreDrawingProperties)) {
             updateDrawingPropertiesForBezierPathWithProperties(bezierPath, properties);
         }
+        CGPathRelease(path);
+
     }
     @catch (NSException *exception) {
         if (error) {
